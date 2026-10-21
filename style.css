@@ -105,3 +105,14 @@ color: #e80202;
     clip-path: circle(50% at bottom);
    }
 }
+@media screen and (max-width:500px){
+    body{
+        height: 950px;
+    }
+    .logo{
+        font-size: 20px;
+    }
+    .href3{
+        font-size: 17px;
+    }
+}
